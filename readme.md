@@ -3,7 +3,7 @@
 
 2.clear the config.yml
 
-3. run the python commond
+3.run the python commond
 
 ```python
     python free _Translate.py
